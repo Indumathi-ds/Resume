@@ -11,5 +11,6 @@ Currently, I'm seeking opportunities as a **Junior Data Scientist**, where I can
 Check out some of my work:  
 - [Employee Attrition Prediction & Retention Insights](https://github.com/Indumathi-ds/Employee-Attrition-Prediction-Retention-Insights)  
 - [Customer Segmentation & Insights](https://github.com/Indumathi-ds/Customer-Segmentation-Insights)  
-- [Netflix Analytics Dashboard](https://github.com/Indumathi-ds/PowerBI-Netflix-dashboard)  
+- [Netflix Analytics Dashboard](https://github.com/Indumathi-ds/PowerBI-Netflix-dashboard)
+- [Loan Prediction Analysis| R ](https://github.com/Indumathi-ds/Loan-Prediction-Analysis).
 
